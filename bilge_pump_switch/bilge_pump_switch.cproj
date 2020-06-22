@@ -120,7 +120,7 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="main.c">
+    <Compile Include="bilge_pump_switch.c">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>
