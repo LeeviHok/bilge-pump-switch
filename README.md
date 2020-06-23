@@ -14,4 +14,8 @@ This device consists from three parts, sensor, main electronics and cable connec
 
 ## How it looks?
 
-![Image from bilge pump switch](Images/Bilge_pump_switch.jpg)
+![Image of bilge pump switch](Images/Bilge_pump_switch.jpg)
+
+![Image from insides of bilge pump switch](Images/Bilge_pump_switch_inside.jpg)
+
+![Image of bilge pump switch PCBs](Images/Bilge_pump_switch_PCBs.jpg)
